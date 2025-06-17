@@ -45,7 +45,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onEnterDashboard }) => {
     <div className="min-h-screen bg-gradient-to-br from-green-50 via-white to-blue-50">
       {/* Header */}
       <header className="relative z-10 bg-white/80 backdrop-blur-sm border-b border-white/20">
-        <div className="max-w-7xl mx-auto px-6 py-4">
+        <div className="max-w-7xl mx-auto px-6 py-6">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
               <div className="bg-gradient-to-br from-green-500 to-green-600 p-2 rounded-xl">
